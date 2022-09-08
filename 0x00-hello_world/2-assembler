@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -a $CFILE > CFILE.s
+gcc -Wa $CFILE > CFILE.s
